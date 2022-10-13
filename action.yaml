@@ -1,0 +1,16 @@
+name: 'HCL AppScan Source'
+description: 'Scan for security issues in code'
+author: 'Florin' 
+branding:
+  color: 'blue'
+  icon: 'shield'  
+inputs:
+  script-file:
+    description: 'AppScan Source script file'
+    required: true
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - script /github/workspace/${{inputs.script-file}}
