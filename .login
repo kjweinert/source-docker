@@ -4,3 +4,6 @@ ASE
   "keySecret": "B7PJDJJ39JLEA6000DKEKAY661KAKLKS",
   "createdAt": "2023-04-28 13:59:59.5959"
 }
+
+
+"atlassian_api_token": "B7PJDJJ39JLEA6000DKEKAY661KAKLKS",			
