@@ -2,8 +2,8 @@ name: 'HCL AppScan Source'
 description: 'Scan for security issues in code'
 author: 'Florin' 
 branding:
-  color: 'blue'
-  icon: 'shield'  
+  color: 'green'
+  icon: 'shamrock'  
 inputs:
   script-file:
     description: 'AppScan Source script file'
