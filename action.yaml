@@ -1,6 +1,5 @@
 name: 'HCL AppScan Source'
 description: 'Scan for security issues in code'
-author: 'Florin' 
 branding:
   color: 'green'
   icon: 'shamrock'  
